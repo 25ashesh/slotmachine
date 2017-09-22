@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\AdvancedAndroid\hm5_aryal_panta\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="31eb24e0636d1420f7ce3ebc79940ced7009f3b4">
+        <dex dex="E:\AdvancedAndroid\hm5_aryal_panta\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_3912379b4de11869b18df24af0741f9027b38b1c.jar" />
+    </item>
+    <item
+        jar="E:\AdvancedAndroid\hm5_aryal_panta\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="596a2cbd2222930746021a98f0c4458956c865ec">
+        <dex dex="E:\AdvancedAndroid\hm5_aryal_panta\app\build\intermediates\pre-dexed\debug\instant-run_9f2fdbb8845f6999a5c017f0484f2c6151233253.jar" />
+    </item>
+
+</items>

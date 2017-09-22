@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\12 slot machine\\a\\slotmachine\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ring1.ogg",
+        "source": "D:\\12 slot machine\\a\\slotmachine\\app\\src\\main\\res\\raw\\ring1.ogg"
+    },
+    {
+        "merged": "D:\\12 slot machine\\a\\slotmachine\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ring3.ogg",
+        "source": "D:\\12 slot machine\\a\\slotmachine\\app\\src\\main\\res\\raw\\ring3.ogg"
+    },
+    {
+        "merged": "D:\\12 slot machine\\a\\slotmachine\\app\\build\\intermediates\\res\\merged\\debug\\raw\\boo.mp3",
+        "source": "D:\\12 slot machine\\a\\slotmachine\\app\\src\\main\\res\\raw\\boo.mp3"
+    },
+    {
+        "merged": "D:\\12 slot machine\\a\\slotmachine\\app\\build\\intermediates\\res\\merged\\debug\\raw\\pull.ogg",
+        "source": "D:\\12 slot machine\\a\\slotmachine\\app\\src\\main\\res\\raw\\pull.ogg"
+    },
+    {
+        "merged": "D:\\12 slot machine\\a\\slotmachine\\app\\build\\intermediates\\res\\merged\\debug\\raw\\win.ogg",
+        "source": "D:\\12 slot machine\\a\\slotmachine\\app\\src\\main\\res\\raw\\win.ogg"
+    },
+    {
+        "merged": "D:\\12 slot machine\\a\\slotmachine\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ring2.ogg",
+        "source": "D:\\12 slot machine\\a\\slotmachine\\app\\src\\main\\res\\raw\\ring2.ogg"
+    }
+]
